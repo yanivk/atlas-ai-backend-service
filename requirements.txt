@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+pydantic
+chromadb
+pypdf
+python-docx
