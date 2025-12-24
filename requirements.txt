@@ -1,8 +1,13 @@
 fastapi
 uvicorn
 langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
 pydantic
 chromadb
 pypdf
 python-docx
 python-multipart
+python-dotenv
